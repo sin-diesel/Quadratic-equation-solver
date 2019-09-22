@@ -1,2 +1,2 @@
 # Quadratic-equation-solver
-Solves any quadratic equation
+Solves any quadratic equation.
